@@ -1,5 +1,5 @@
 programa
-{	cadeia jogos, terror, acao, sobrevivencia
+{	cadeia jogos, terror, acao, sobrevivencia
 	inteiro choice
 	caracter Choice
 	
@@ -77,7 +77,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1487; 
+ * @POSICAO-CURSOR = 1345; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
