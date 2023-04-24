@@ -1,5 +1,1 @@
-# Log_Prog
-Aula de log_prog
-<!--
--Trabalho final portugol
-<!--
+##Aprendendo lógica de programação
